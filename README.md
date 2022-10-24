@@ -10,7 +10,7 @@ Differential expression (DE) analysis was carried out on the full Dengue gene ex
 
 A linear model was derived using the function *model.matrix* to create a design matrix for every gene for each of the population groups (Phipson et al., 2016). The coefficients of the model were fitted by the function *lmFit* (Phipson et al., 2016). All pair-wise comparisons between the four population groups were made (Phipson et al., 2016). The *topTable* function provides the summary statistics of the linear model for the gene expression profiles (Phipson et al., 2016). The summary statistics include the (log2) fold changes which infers the quantitative value of the contrast. A volcano plot, a type of scatter plot was used to visualise and interpret the the most significant difference of individual genes.
 
-Volcano Plot for DE-analysis 
+## Volcano Plot for DE-analysis 
 ![image](https://user-images.githubusercontent.com/93345220/197392084-f3cb9677-d731-42e0-aae4-59d10958fe84.png)
 
 
