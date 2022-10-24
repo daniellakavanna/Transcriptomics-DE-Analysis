@@ -14,4 +14,4 @@ Volcano Plot for DE-analysis
 ![image](https://user-images.githubusercontent.com/93345220/197392084-f3cb9677-d731-42e0-aae4-59d10958fe84.png)
 
 
-Volcano plot where the (log2) fold change cut off is 0.6 and p-value cut off is 0.05 to visualise DEGs. The position of each gene is determined by its p-value and (log2) fold change where the x-axis is the (log2) fold change and y-axis is the  (log10) transformed p-value. The upper right and left hand corners show the most statistical significant genes, marked as red circles. Black dots indicate the remaining genes that were not statistically significant.
+Volcano plot where the (log2) fold change cut off is 0.6 and p-value cut off is 0.05 to visualise DEGs. The position of each gene is determined by its p-value and (log2) fold change. The x-axis is the (log2) fold change and y-axis is the (log10) transformed p-value. The upper right and left hand corners show the most statistical significant genes, marked as red circles. Black dots indicate the remaining genes that were not statistically significant.
